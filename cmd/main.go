@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"net-http/handler"
+	"github.com/imsugeno/net-http/handler"
 )
 
 func main() {
