@@ -2,8 +2,6 @@ package main
 
 import (
 	"net/http"
-
-	"github.com/imsugeno/net-http/handler"
 )
 
 func main() {
