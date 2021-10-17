@@ -1,3 +1,3 @@
-module github.com/imsugeno/net-http
+module net-http
 
 go 1.16
